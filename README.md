@@ -26,5 +26,5 @@ Love (Django | DRF | Python)
 
 
 ## My Status
-- 🔭 I’m currently working on [Shop Project](https://github.com/rms82/shop-test)
+- 🔭 I’m currently working on [Shop Project](https://github.com/rms82/shop_test)
 - 🌱 I’m currently learning ...
