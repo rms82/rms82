@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Love (Django | DRF | Python)
 
  A passionate software developer with a focus on web development using Django, Django Rest Framework (DRF), and Python.
 
@@ -24,6 +23,7 @@ Love (Django | DRF | Python)
 
 🤝 Let's connect and collaborate on exciting projects! Feel free to reach out to me via email or on social media platforms listed in my profile. I'm open to discussions, sharing knowledge, and exploring new opportunities.
 
+I Love (Django | DRF | Python)
 
 ## My Status
 - 🔭 I’m currently working on [Shop Project](https://github.com/rms82/shop_test)
