@@ -42,6 +42,8 @@ Love (Django | DRF | Python)
 </p>
 
 ### Github Status
+![Profile Views](https://komarev.com/ghpvc/?username=rms82&color=blue)
+<br>
 ![rms82's GitHub stats](https://github-readme-stats.vercel.app/api?username=rms82&show_icons=true&theme=tokyonight)
 
 
