@@ -41,3 +41,8 @@ Love (Django | DRF | Python)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
 </p>
 
+### Status
+![rms82's GitHub stats](https://github-readme-stats.vercel.app/api?username=rms82&show_icons=true&theme=tokyonight)
+
+
+
