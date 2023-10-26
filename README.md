@@ -27,7 +27,7 @@ I Love (Django | DRF | Python)
 
 ## My Status
 - 🔭 I’m currently working on [Drf Project](https://github.com/rms82/drf_shop)
-- 🌱 I’m currently reactjs
+- 🌱 I’m currently learning reactjs
 
 ### Languages and Tools:
 <p align="left">
