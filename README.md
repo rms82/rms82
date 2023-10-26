@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 I Love (Django | DRF | Python)
 
 ## My Status
-- 🔭 I’m currently working on [Shop Project](https://github.com/rms82/shop_test)
-- 🌱 I’m currently learning Django Rest Framework and JavaScript
+- 🔭 I’m currently working on [Drf Project](https://github.com/rms82/drf_shop)
+- 🌱 I’m currently reactjs
 
 ### Languages and Tools:
 <p align="left">
